@@ -1,4 +1,9 @@
 
+/*
+SEHook: Shookapi.h
+Copyright (C) DENDentar.
+*/
+
 #ifdef APICALLLOG
 #define APICALLOGCLEAR(file) if (true) \
 	{ \

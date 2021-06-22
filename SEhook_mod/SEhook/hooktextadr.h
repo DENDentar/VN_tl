@@ -1,4 +1,9 @@
 
+/*
+SEHook: hooktextadr.h
+Copyright (C) DENDentar.
+*/
+
 #if (SLVER == 0x01015000)
 // v1.1.80.0 (AngelBeats! -1st beat- Trial 1.00)
 // Siglus Text Window

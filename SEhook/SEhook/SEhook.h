@@ -1,4 +1,8 @@
 
+/*
+SEHook: SEhook.h
+Copyright (C) DENDentar.
+*/
 
 #define _WIN32_WINNT _WIN32_WINNT_WINXP
 #include <windows.h>

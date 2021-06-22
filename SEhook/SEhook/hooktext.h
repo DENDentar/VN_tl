@@ -1,4 +1,9 @@
 
+/*
+SEHook: hooktext.h
+Copyright (C) DENDentar.
+*/
+
 #include <windows.h>
 
 #include "mcrt.h"

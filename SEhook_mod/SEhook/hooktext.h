@@ -1,4 +1,9 @@
 
+/*
+SEHook: hooktext.h
+Copyright (C) DENDentar.
+*/
+
 #if 0
 #include <windows.h>
 
